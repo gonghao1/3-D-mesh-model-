@@ -1,1 +1,1 @@
-# 3-D-mesh-model-
+Below are some 3-D structures represented as meshes: “gszh_xyz” is a house, “bigben” is the Big Ben, “Christ_simplify” is the Christ statue, ‘hoa_hakanaia’ is the Hoa Hakananai’a, and “MBS4” is the Triumphal Arch.
